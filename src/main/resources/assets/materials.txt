@@ -1,0 +1,66 @@
+index: 0
+name: wheels
+metallic_factor: 1.0
+roughness_factor: 0.5
+color: tex_03.png
+uv_set: 0
+normal: tex_03_n.jpg
+uv_set: 0
+scale: 1.5
+
+index: 1
+name: tex_02
+metallic_factor: 0.0
+roughness_factor: 0.5
+color: tex_02.jpg
+uv_set: 0
+
+index: 2
+name: tex_01
+metallic_factor: 0.0
+roughness_factor: 0.5
+color: tex_01.jpg
+uv_set: 0
+
+index: 3
+name: parts_AO
+metallic_factor: 1.0
+roughness_factor: 0.75
+color: parts_AO.jpg
+uv_set: 0
+
+index: 4
+name: tex_03
+metallic_factor: 1.0
+roughness_factor: 0.7
+color: tex_03.png
+uv_set: 0
+
+index: 5
+name: tex_05
+metallic_factor: 0.0
+roughness_factor: 0.5
+color: tex_05.jpg
+uv_set: 0
+
+index: 6
+name: tex_04
+metallic_factor: 1.0
+roughness_factor: 0.75
+color: tex_04.jpg
+uv_set: 0
+
+index: 7
+name: tex_03a
+alpha_mode: BLEND
+metallic_factor: 0.0
+roughness_factor: 1.0
+color: tex_03.png
+uv_set: 0
+
+index: 8
+name: internals
+metallic_factor: 0.0
+roughness_factor: 0.5
+color: 0.8040874 0.7515147 0.6060708 1.0
+

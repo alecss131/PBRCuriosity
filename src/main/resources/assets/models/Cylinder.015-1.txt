@@ -1,0 +1,34 @@
+Cylinder.015-1
+material: 1
+
+Cylinder.015-1.bin
+type: VEC3
+count: 8819
+component_type: float (size: 4)
+max: 0.010783702 1.5844823 0.11673796
+min: -2.1283164 -0.038312435 -2.3247435
+
+Cylinder.015-1-n.bin
+type: VEC3
+count: 8819
+component_type: float (size: 4)
+
+Cylinder.015-1-t0.bin
+type: VEC2
+count: 8819
+component_type: float (size: 4)
+
+Cylinder.015-1-t1.bin
+type: VEC2
+count: 8819
+component_type: float (size: 4)
+
+Cylinder.015-1-t2.bin
+type: VEC2
+count: 8819
+component_type: float (size: 4)
+
+Cylinder.015-1-i.bin
+type: SCALAR
+count: 23379
+component_type: unsigned_short (size: 2)
